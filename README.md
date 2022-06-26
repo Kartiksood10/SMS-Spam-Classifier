@@ -1,5 +1,4 @@
 # SMS-Spam-Classifier
-
 A streamlit app that predicts if an input message is spam or not
 
 Demo Link : https://esc-kartiksood.herokuapp.com/
